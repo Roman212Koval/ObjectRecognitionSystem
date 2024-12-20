@@ -1,0 +1,14 @@
+path: 'C:/Users/koval/Desktop/Dataset_Yol' # dataset root dir
+train: train  # train images (relative to 'path')
+val: val  # val images (relative to 'path')
+
+names:
+  0: apple
+  1: bike
+  2: bottle
+  3: box
+  4: car
+  5: cup
+  6: laptop
+  7: person
+
